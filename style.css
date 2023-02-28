@@ -8,15 +8,15 @@ body{
     font-size: 10rem;
 }
 
-h1, p{
+h1{
     text-align: center;
-    font-family: 'Arvo', cursive;
-}
-
-footer{
-    color: black;
     font-family: cursive;
 }
+
+/* footer{
+    color: black;
+    font-family: cursive;
+} */
 
 .day {
     outline: none;
@@ -35,12 +35,12 @@ footer{
     margin: 10px;
     background-color: white;
   }
- @media only screen and (min-width : 768px) {
+/*  @media only screen and (min-width : 768px) {
      .day{
         width: 400px;
         height: 120px;
      }
-  }
+  } */
 
   .pressed {
      box-shadow: 0 3px 4px 0 red;
