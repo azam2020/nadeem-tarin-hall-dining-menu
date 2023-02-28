@@ -3,15 +3,16 @@ body{
     color: blueviolet;
    background-color: wheat;
    text-align: center;
+   font-family: cursive;
 }
 .huge{
     font-size: 10rem;
 }
 
-h1{
+/* h1{
     text-align: center;
     font-family: cursive;
-}
+} */
 
 /* footer{
     color: black;
